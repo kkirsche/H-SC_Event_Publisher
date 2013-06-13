@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1374/standalone/trunk
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1374/standalone/trunk/index.php
+END
+config.sample.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1350/standalone/trunk/config.sample.inc.php
+END
