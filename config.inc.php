@@ -1,5 +1,5 @@
 <?php
-
+/*Display errors*/
 ini_set('display_errors', false);
 
 /*Add a custom include path here if needed....*/
